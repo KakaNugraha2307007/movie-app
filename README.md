@@ -9,9 +9,9 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah
 ---
 
 ## 👤 Identitas Mahasiswa
-- **Nama** : (ISI NAMA LENGKAP)
-- **NIM**  : (ISI NIM)
-- **Program Studi** : (OPSIONAL)
+- **Nama** : (Kaka Nugraha)
+- **NIM**  : (2307024)
+- **Program Studi** : (S1 Sistem Informasi)
 - **Mata Kuliah** : Pemrograman Berbasis Web
 
 ---
@@ -54,50 +54,38 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah
 
 ## 🖼️ Screenshot Aplikasi (Langkah demi Langkah)
 
-> 📌 **Catatan:**  
-> Simpan seluruh gambar di folder `screenshots/`  
-> dengan nama file sesuai di bawah ini.
-
-### 1️⃣ Halaman Login  
+### 1️ Halaman Login  
 Menampilkan form login untuk pengguna yang telah terdaftar  
-![Login Page](screenshots/01-login.png)
+![Login Page](screenshots\image1.png)
 
 ---
 
-### 2️⃣ Halaman Register  
+### 2️ Halaman Register  
 Digunakan untuk membuat akun baru  
-![Register Page](screenshots/02-register.png)
+![Register Page](screenshots\image2.png)
 
 ---
 
-### 3️⃣ Halaman Dashboard / Kaka Films  
+### 3️ Halaman Dashboard / Kaka Films  
 Menampilkan daftar film dari API TVMaze  
-![Movies Page](screenshots/03-movies.png)
+![Movies Page](screenshots\image3.png)
 
 ---
 
-### 4️⃣ Fitur Pencarian Film  
+### 4️ Fitur Pencarian Film  
 Pengguna mencari film berdasarkan judul  
-![Search Movies](screenshots/04-search.png)
+![Search Movies](screenshots\image4.png)
 
 ---
 
-### 5️⃣ Menambahkan Film ke Favorit  
-Klik tombol ❤️ untuk menyimpan film  
-![Add Favorite](screenshots/05-add-favorite.png)
-
----
-
-### 6️⃣ Halaman Favorit  
+### 5 Halaman Favorit  
 Menampilkan daftar film favorit pengguna  
-![Favorites Page](screenshots/06-favorites.png)
+![Favorites Page](screenshots\image5.png)
 
 ---
 
-### 7️⃣ Halaman Profile  
+### 6 Halaman Profile  
 Pengguna dapat melihat dan mengubah data profil  
-![Profile Page](screenshots/07-profile.png)
+![Profile Page](screenshots\image6.png)
 
----
-
-## 📂 Struktur Folder Screenshot
+--

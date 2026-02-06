@@ -54,38 +54,38 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah
 
 ## 🖼️ Screenshot Aplikasi (Langkah demi Langkah)
 
-### 1️ Halaman Login  
+### 1️⃣ Halaman Login
 Menampilkan form login untuk pengguna yang telah terdaftar  
-![Login Page](screenshots\image1.png)
+![Login Page](screenshots/image1.png)
 
 ---
 
-### 2️ Halaman Register  
+### 2️⃣ Halaman Register
 Digunakan untuk membuat akun baru  
-![Register Page](screenshots\image2.png)
+![Register Page](screenshots/image2.png)
 
 ---
 
-### 3️ Halaman Dashboard / Kaka Films  
+### 3️⃣ Halaman Dashboard / Kaka Films
 Menampilkan daftar film dari API TVMaze  
-![Movies Page](screenshots\image3.png)
+![Dashboard](screenshots/image3.png)
 
 ---
 
-### 4️ Fitur Pencarian Film  
+### 4️⃣ Fitur Pencarian Film
 Pengguna mencari film berdasarkan judul  
-![Search Movies](screenshots\image4.png)
+![Search Movie](screenshots/image4.png)
 
 ---
 
-### 5 Halaman Favorit  
+### 5️⃣ Menambahkan Film ke Favorit
+Klik tombol ❤️ untuk menyimpan film  
+![Add Favorite](screenshots/image5.png)
+
+---
+
+### 6️⃣ Halaman Favorit
 Menampilkan daftar film favorit pengguna  
-![Favorites Page](screenshots\image5.png)
-
----
-
-### 6 Halaman Profile  
-Pengguna dapat melihat dan mengubah data profil  
-![Profile Page](screenshots\image6.png)
+![Favorite Page](screenshots/image6.png)
 
 --

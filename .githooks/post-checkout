@@ -1,0 +1,17 @@
+#!/bin/sh
+# Repo-shared post-checkout hook: when switching to a branch, if that
+# branch doesn't exist on `origin`, push it and set upstream.
+
+is_branch_checkout="$3"
+if [ "${is_branch_checkout}" = "1" ]; then
+  branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
+  if [ -z "${branch}" ] || [ "${branch}" = "HEAD" ]; then
+    exit 0
+  fi
+  # If origin already has this branch, do nothing
+  if git ls-remote --exit-code --heads origin "${branch}" >/dev/null 2>&1; then
+    exit 0
+  fi
+  # Push and set upstream
+  git push -u origin "${branch}"
+fi
